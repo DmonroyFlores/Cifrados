@@ -1,0 +1,49 @@
+.barra{
+    position: relative;
+    color: #45568d;
+    text-align: center;
+    font-size: 5rem;
+    padding: 1px;
+    font-family: fantasy;
+}
+.pname{
+    font-size: 1rem;
+    margin: 1px;
+}
+
+button{
+    height: 4rem;
+    width: auto;
+    border-color: #45568d;
+    border-radius: 10px;
+    color: #45568d;
+    background-color: rgb(0, 0, 0); 
+    font-size: 2rem;
+    font-family: 'Noto Sans Mono', monospace;
+}
+.letra{
+    color: #45568d;
+    font-family: 'Noto Sans Mono', monospace;
+}
+*{
+    color: #45568d;
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: black;
+}
+#menu{
+    position: relative;
+    display:block;
+    padding: 7rem;
+    margin-left: 30%;
+}
+.bviggener{
+    padding-top: 7rem;
+}
+#Menu_cesar{
+    display: none;
+    position: relative;
+}
+#Menu_viggenere{
+    display: none;
+    position: relative;
+}
